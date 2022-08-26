@@ -4,8 +4,6 @@ Dieser Repository beinhaltet Datensätze aus Geisteswissenschaften, die in dem O
 
 Ein Ordner für den jeweiligen Datensatz enthält eine JSON-Datei für die Visualisierungen, die Datei, die für den Netzwerk-Import verwendet wurde, und eventuell zusätzliche Materialien. Die meisten Datensätze wurden für den Import angepasst. Die Links zu den Quelldatensätzen können dem [Artikel](https://ocd.git.dbis.rwth-aachen.de/Online-Buch/DSS/Datensatzsammlung_aus_Geisteswissenschaften) entnommen werden.
 
-Siehe die Referenzen-Datei für die Referenzen der Datensätze. [1]
-
 ## Liste der genutzten Datensätze
 
 1. Colonial/Dependency Contiguity [1]
