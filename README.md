@@ -4,7 +4,7 @@ Dieser Repository beinhaltet Datensätze aus Geisteswissenschaften, die in dem O
 
 Ein Ordner für den jeweiligen Datensatz enthält eine JSON-Datei für die Visualisierungen, die Datei, die für den Netzwerk-Import verwendet wurde, und eventuell zusätzliche Materialien. Die meisten Datensätze wurden für den Import angepasst. Die Links zu den Quelldatensätzen können dem [Artikel](https://ocd.git.dbis.rwth-aachen.de/Online-Buch/DSS/Datensatzsammlung_aus_Geisteswissenschaften) entnommen werden.
 
-*Hinweis:* Falls es anhand der Dateiendung nicht ersichtlich ist, in welchem Format der Datensatz in WebOCD importiert werden kann, wie zum Beispiel bei *colonial-dependency-contiguity.gml* weist die Endung darauf hin, dass es sich um das GML-Format handelt, beinhaltet der Dateiname Informationen zu dem Format, wie bei *star-wars-network-weighted-edges.txt*, dieser Datensatz soll als Weighted Edge List importiert werden.
+*Hinweis:* Falls es anhand der Dateiendung nicht ersichtlich ist, in welchem Format der Datensatz in WebOCD importiert werden kann, wie zum Beispiel *colonial-dependency-contiguity.gml* weist die Endung darauf hin, dass es sich um das GML-Format handelt, beinhaltet der Dateiname Informationen zu dem Format, wie bei *star-wars-network-weighted-edges.txt*, dieser Datensatz soll als Weighted Edge List importiert werden.
 
 ## Liste der genutzten Datensätze
 
